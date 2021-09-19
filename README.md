@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r00t1
-- 👀 I’m interested in security
-- 🌱 I’m currently learning cs
+- 👀 I’m interested in cloud
+- 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me ...
 
